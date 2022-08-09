@@ -3,7 +3,7 @@
 This module enables you to use the Flick Tracking and Gesture board with your Magic Mirror.<br>
 See: https://www.seeedstudio.com/Flick-Large-Standalone-3D-Tracking-and-Gesture-Breakout-p-2952.html
 
-This module will emit 2 events - PAGE_DECREMENT when swiped left and PAGE_INCREMENT when swiped right.  
+This module will emit 3 events - PAGE_DECREMENT when swiped left, PAGE_INCREMENT when swiped right, and swipe down shuts the Mirror down.  
 
 # Tested with
 - Flick Large – Standalone 3D Tracking and Gesture Breakout
